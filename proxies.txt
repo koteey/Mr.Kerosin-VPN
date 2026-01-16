@@ -2,7 +2,7 @@
 #support-url: https://t.me/snowcoding
 #profile-hide-servers: 1
 vless://b342edb3-0518-402d-9b1a-123456789abc@example.com:443?type=ws&security=tls&path=%2Fpath&host=koteey.github.io&sni=koteey.github.io#t.me/snowcoding
-vless://b342edb3-0518-402d-9b1a-123456789abc@example.com:443?type=ws&security=tls&path=%2Fpath&host=koteey.github.io&sni=koteey.github.io#Сайт%20%20koteey.github.io%20
+vless://b342edb3-0518-402d-9b1a-123456789abc@example.com:443?type=ws&security=tls&path=%2Fpath&host=koteey.github.io&sni=koteey.github.io#Сайт%20%26%20TG%3A%20koteey.github.io%20%2F%20%40snowcoding
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA@95.174.68.33:443#🇦🇪 Объединённые Арабские Эмираты
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#🇦🇪 Объединённые Арабские Эмираты 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#🇦🇪 Объединённые Арабские Эмираты 3
@@ -404,6 +404,7 @@ vless://12345678-1234-1234-1234-123456789123@192.169.220.61:2096?encryption=none
 vless://12345678-1234-1234-1234-123456789123@166.62.104.61:2096?encryption=none&security=tls&sni=vless.hubp.de&type=ws&host=vless.hubp.de&path=%2Fsnippets#🇺🇸 Соединённые Штаты Америки 33
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&fp=chrome#🇺🇸 Соединённые Штаты Америки 34
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#🇺🇸 Соединённые Штаты Америки 35
+
 
 
 
